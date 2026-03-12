@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name ="localIP" value="127.0.0.1"/>
+		<Parameter name ="remoteIP" value="192.168.0.16"/>
+		<Parameter name ="port" value="4723" />
+		<Parameter name ="galleryPackageID" value="SAMSUNGELECTRONICSCO.LTD.PCGallery_3c1yjt4zspk6g!App" />
+		<Parameter name ="notesPackageID" value="SAMSUNGELECTRONICSCoLtd.SamsungNotes_wyx1vj98g3asy!App" />
+		<Parameter name ="settingsPackageID" value="Windows.ImmersiveControlPanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel"/>
+		<Parameter name ="samsungAccountPackageID" value="SAMSUNGELECTRONICSCO.LTD.SamsungAccount_3c1yjt4zspk6g!App"/>
+		<Parameter name ="samsungPassPackageID" value="SAMSUNGELECTRONICSCO.LTD.SamsungPass_3c1yjt4zspk6g!App"/>
+		<Parameter name ="samsungCloudPackageID" value="SAMSUNGELECTRONICSCO.LTD.SamsungCloudPlatformManag_3c1yjt4zspk6g!App"/>
+	</TestRunParameters>
+</RunSettings>
+
